@@ -112,7 +112,7 @@ embedded model.
 ## Deploy with Streamlit Community Cloud
 
 1. Push the project files to a GitHub repository.
-2. In Streamlit Community Cloud, create an app from that repository and select `app8.py` as the
+2. In Streamlit Community Cloud, create an app from that repository and select `app.py` as the
    app's main file.
 3. Deploy. Ensure the notebook, dataset, and `requirements.txt` are included at the repository root.
 
@@ -125,4 +125,4 @@ model outputs from sources you trust.
 
 ## Author
 
-Add the project author's name, department/program, and date here.
+Alachew Semu, Data Science, and 2026.
